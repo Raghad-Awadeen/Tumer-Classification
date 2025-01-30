@@ -10,6 +10,6 @@
 ###  Feature extraction using Gabor filters
 ###  Dimensionality reduction with LDA
 ###  Machine learning model development and evaluation
-### 4. Dataset
+# 4. Dataset
 ### To go to the competition on Kaggle 
 https://www.kaggle.com/competitions/tumor-classification
